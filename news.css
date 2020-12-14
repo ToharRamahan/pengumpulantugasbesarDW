@@ -1,0 +1,21 @@
+.latar{
+	background-image: url(img/pubg23.jpg);
+	background-size: cover;
+
+}
+.judul{
+	margin-top: 65px;
+}
+.garis{
+	width: 250px;
+	border-top: 3px solid #ffff;
+}
+.news{
+	text-align: center;
+	position: relative;
+	max-width:100%;
+    
+}
+.barr{
+	border-top: 2px solid #FFFFFF;
+	}

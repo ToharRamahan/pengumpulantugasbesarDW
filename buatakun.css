@@ -1,0 +1,15 @@
+.backgroundbuatakun{
+	background-image: url(img/pubg35.jpg);
+    background-size: auto;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+.container{
+	position:relative;
+	width: 45%;
+	margin-top: 5%;
+}
+label{
+	color: white;
+
+}
