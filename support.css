@@ -1,0 +1,25 @@
+
+body{
+	background-image: url(img/pubg21.jpg);
+	background-size: cover;
+	height: 350px;
+	
+
+
+}
+.produk{
+
+	text-align: center;
+	position: relative;
+	max-width:100%;
+    
+}
+
+h2.from{
+	text-align: center;
+	color: white;
+	margin-top: 100px;
+}
+.barr{
+	border-top: 2px solid #FFFFFF;
+}

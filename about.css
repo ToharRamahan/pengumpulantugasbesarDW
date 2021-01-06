@@ -1,0 +1,29 @@
+/*.judul {
+	margin-top: 100px;
+	text-align: center;
+}
+.baris{
+	width: 250px;
+	border-top: 3px solid  #666;
+
+}*/
+body{
+	background-image: url(img/pubg13.jpg);
+}
+.about1 hr{
+	width: 500px;
+	border-top: 3px solid  #666;
+}
+.about1{
+	margin-top: 80px;
+}
+.about2 hr{
+	width: 350px;
+	border-top: 3px solid  #666;
+}
+.about2{
+	margin-top: 50px;
+}
+.barr{
+	border-top: 2px solid #FFFFFF;
+}
